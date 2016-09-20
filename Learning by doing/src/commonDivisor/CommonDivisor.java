@@ -20,10 +20,10 @@ public class CommonDivisor {
 		System.out.println("Podaj wartosc liczby pierwszej:");
 		int a = sc.nextInt();
 
-		System.out.println("Podaj wartosc drugiek liczby:");
+		System.out.println("Podaj wartosc drugiej liczby:");
 		int b = sc.nextInt();
 
-		System.out.println(" Najwiekszy wspolny dziennik licz wynosi: " + div(a, b));
+		System.out.println(" Najwiekszy wspolny dzielnik licz wynosi: " + div(a, b));
 
 	}
 
